@@ -1,0 +1,7 @@
+.intro_bg{
+    width: 100%;
+    height: 500px;
+    background-color: azure;
+    background-image: url("../image/image005.jpg");
+    background-size: 100% 1300px;
+}
