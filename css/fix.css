@@ -1,0 +1,27 @@
+
+.fix {
+    position: absolute;
+    position: fixed;
+    background-color: rgb(90, 150, 90);
+    width: 70%;
+    height: 100px;
+    bottom: 0;
+    left: 0;
+    right: 10px;
+    border-radius: 50px;
+   
+}
+
+.fix > li {
+    font-size: 45px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.fix li:hover{
+    color: gold;
+    cursor: pointer;
+}
